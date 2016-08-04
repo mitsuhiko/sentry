@@ -3,6 +3,9 @@
 // Runs a Jasmine Suite from an html page
 // @page is a PhantomJs page object
 // @exit_func is the function to call in order to exit the script
+//
+//
+// some stuff here
 
 (function(phantom, WebPage){
   "use strict";
